@@ -1,0 +1,11 @@
+# Python packages used by the notebooks (versions not pinned: the original
+# environment was not recorded; pin them after your first successful run).
+earthengine-api
+geemap
+geopandas
+shapely
+rasterio
+numpy
+pandas
+matplotlib
+matplotlib-scalebar

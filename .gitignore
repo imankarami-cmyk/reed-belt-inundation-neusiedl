@@ -1,0 +1,33 @@
+# ---- data and generated outputs (never commit) ----
+Data/
+result/
+*.tif
+*.tiff
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.docx
+*.csv
+
+# ...except small, intentional files
+!config/station_buffers.csv
+!7_exploratory_radar_alos_vs_sentinel1/results/*.csv
+
+# ---- R ----
+.Rhistory
+.RData
+.Rproj.user/
+.Rapp.history
+
+# ---- Python / Jupyter ----
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+
+# ---- OS / editor ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

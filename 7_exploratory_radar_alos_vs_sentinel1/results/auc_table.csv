@@ -1,0 +1,37 @@
+sensor,subset,variable,AUC,lo,hi,n,sign,valid_boots
+ALOS1,all,co_dB,0.712,0.672,0.746,1872,-1,300
+ALOS1,all,cross_dB,0.717,0.674,0.75,1872,-1,300
+ALOS1,all,Landsat mNDWI+EVI (thesis held-out rows),0.766,0.732,0.794,25711,NA,300
+ALOS1,all,Landsat mNDWI+EVI (all rows),0.787,0.761,0.812,29685,NA,300
+ALOS1,near_thr,co_dB,0.595,0.535,0.661,249,-1,300
+ALOS1,near_thr,cross_dB,0.608,0.543,0.674,249,-1,300
+ALOS1,near_thr,Landsat mNDWI+EVI (thesis held-out rows),0.582,0.558,0.604,5741,NA,300
+ALOS1,near_thr,Landsat mNDWI+EVI (all rows),0.589,0.57,0.611,6853,NA,300
+ALOS1,growing,co_dB,0.712,0.665,0.755,1872,-1,300
+ALOS1,growing,cross_dB,0.717,0.677,0.758,1872,-1,300
+ALOS1,growing,Landsat mNDWI+EVI (thesis held-out rows),0.758,0.731,0.784,23229,NA,300
+ALOS1,growing,Landsat mNDWI+EVI (all rows),0.779,0.755,0.804,26408,NA,300
+S1,all,co_dB,0.587,0.566,0.613,150000,-1,300
+S1,all,cross_dB,0.61,0.585,0.639,150000,-1,300
+S1,all,co_anom,0.513,0.505,0.52,150000,1,300
+S1,all,cross_anom,0.505,0.5,0.512,150000,-1,300
+S1,all,Landsat mNDWI+EVI (thesis held-out rows),0.838,0.81,0.865,73078,NA,300
+S1,all,Landsat mNDWI+EVI (all rows),0.855,0.83,0.879,95911,NA,300
+S1,near_thr,co_dB,0.556,0.537,0.575,19811,-1,300
+S1,near_thr,cross_dB,0.535,0.516,0.554,19811,-1,300
+S1,near_thr,co_anom,0.522,0.504,0.541,19811,-1,300
+S1,near_thr,cross_anom,0.524,0.509,0.536,19811,-1,300
+S1,near_thr,Landsat mNDWI+EVI (thesis held-out rows),0.616,0.594,0.642,10376,NA,300
+S1,near_thr,Landsat mNDWI+EVI (all rows),0.623,0.6,0.645,12122,NA,300
+S1,growing,co_dB,0.577,0.55,0.602,89312,-1,300
+S1,growing,cross_dB,0.599,0.572,0.624,89312,-1,300
+S1,growing,co_anom,0.526,0.512,0.538,89312,1,300
+S1,growing,cross_anom,0.505,0.496,0.514,89312,1,300
+S1,growing,Landsat mNDWI+EVI (thesis held-out rows),0.84,0.814,0.865,57414,NA,300
+S1,growing,Landsat mNDWI+EVI (all rows),0.858,0.83,0.884,74202,NA,300
+S1,leafoff,co_dB,0.598,0.571,0.627,60688,-1,300
+S1,leafoff,cross_dB,0.622,0.593,0.65,60688,-1,300
+S1,leafoff,co_anom,0.497,0.481,0.516,60688,-1,300
+S1,leafoff,cross_anom,0.512,0.5,0.524,60688,-1,300
+S1,leafoff,Landsat mNDWI+EVI (thesis held-out rows),0.829,0.8,0.851,15664,NA,300
+S1,leafoff,Landsat mNDWI+EVI (all rows),0.844,0.822,0.866,21709,NA,300

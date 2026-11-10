@@ -1,0 +1,4 @@
+model,AUC_mean,AUC_sd,folds
+ALOS1: HH + HV,0.763,0.142,6
+S1: VV + VH,0.668,0.105,6
+S1: VV + VH (own-median anomaly),0.569,0.061,6
